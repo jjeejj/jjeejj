@@ -1,4 +1,4 @@
-### Hi there 👋, I'm 姜文俊(一步)
+### Hi there, I'm 姜文俊(一步) 👋
 <!--
 **jjeejj/jjeejj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
