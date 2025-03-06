@@ -5,7 +5,7 @@ A Backend And Web3 Development Engineer
 
 ### Skills
 
-#### 🚀 Frontend
+<!-- #### 🚀 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=FFCA28)
@@ -15,10 +15,11 @@ A Backend And Web3 Development Engineer
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Webpack](https://img.shields.io/badge/-webpack-2B3A42?style=flat-square&logo=webpack&logoColor=75AFCC)
+![Webpack](https://img.shields.io/badge/-webpack-2B3A42?style=flat-square&logo=webpack&logoColor=75AFCC) -->
 
 #### 💻 Backend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Golang](https://img.shields.io/badge/-Golang-blue?logo=go&style=flat-square&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node-green?logo=node.js&style=flat-square&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
