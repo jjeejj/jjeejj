@@ -20,6 +20,6 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjeejj&layout=compact&theme=radical" height=150 />
 </span>
 <span>
-    <img src="https://github-readme-stats.vercel.app/api?username=jjeejj&show_icons=true" height=150/>
+    <img src="https://github-readme-stats.vercel.app/api?username=jjeejj&show_icons=true&theme=radical" height=150/>
 </span>
 
