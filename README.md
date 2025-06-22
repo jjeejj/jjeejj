@@ -3,6 +3,8 @@
 
 A Backend And Web3 Development Engineer
 
+You can reach me by [Email](mailto:wenjunjiang93@gmail.com) or [Telegram](https://t.me/iyi_jiang)
+
 ### 🛠️ Tech Stack
 
 <!-- #### 🚀 Frontend
