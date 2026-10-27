@@ -1,13 +1,15 @@
 ### Hi there, I'm Iyi[奕] 👋
 
 
-A Backend And Web3 Development Engineer
+A Full-Stack & Web3 Developer focused on AI Integration
+
+Building web applications, backend services, and AI-powered products.
 
 You can reach me by [Email](mailto:wenjunjiang93@gmail.com) or [Telegram](https://t.me/iyi_jiang)
 
 ### 🛠️ Tech Stack
 
-<!-- #### 🚀 Frontend
+#### 🚀 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=FFCA28)
@@ -17,7 +19,7 @@ You can reach me by [Email](mailto:wenjunjiang93@gmail.com) or [Telegram](https:
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Webpack](https://img.shields.io/badge/-webpack-2B3A42?style=flat-square&logo=webpack&logoColor=75AFCC) -->
+![Webpack](https://img.shields.io/badge/-webpack-2B3A42?style=flat-square&logo=webpack&logoColor=75AFCC)
 
 #### 💻 Backend
 
@@ -67,6 +69,17 @@ You can reach me by [Email](mailto:wenjunjiang93@gmail.com) or [Telegram](https:
 ![MQTT](https://img.shields.io/badge/-MQTT-660066?logo=mqtt&style=flat-square&logoColor=white)
 
 
+
+#### 🤖 AI Integration
+
+Integrating large language models and generative AI into web applications and backend services.
+
+![LLM APIs](https://img.shields.io/badge/LLM%20APIs-412991?style=flat-square)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-2563EB?style=flat-square)
+![Tool Calling](https://img.shields.io/badge/Tool%20Calling-059669?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
+![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-F59E0B?style=flat-square)
+![Image & Video Generation](https://img.shields.io/badge/Image%20%26%20Video%20Generation-DB2777?style=flat-square)
 
 #### 🦖 Web3
 
